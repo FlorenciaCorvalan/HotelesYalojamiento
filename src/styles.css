@@ -1,0 +1,39 @@
+.App {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+* {
+  outline: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+#logo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.blueone {
+  background: #2bbfcb;
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.back {
+  background-color: #eaeded;
+  width: fit-content;
+  border-radius: 5px;
+  padding: 7px;
+}
+.price {
+  background: #2bbfcb;
+  width: fit-content !important;
+  font-weight: bold;
+  color: white;
+  padding: 7px;
+}
